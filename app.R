@@ -37,6 +37,9 @@ if (!file.exists("data/new_food_bars.csv")) {
     bars <- read_csv("data/new_food_bars.csv")
 }
 
+## Set images resource path
+addResourcePath("images", "images")
+
 ###
 ### User Interface
 ###
