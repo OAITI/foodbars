@@ -55,21 +55,19 @@ ui <- fluidPage(title = "Food Bars Recommender System", theme = shinytheme("ceru
             a(href = "https://oaiti.org", target = "_blank", img(src = "images/oaiti_transparent.png", width = "135")),
             
             h4("About"),
-            helpText("As a fun little experiment, we've sampled numerous food bars and collected data on our team's preferences on a number of different attributes (taste, texture smell, etc.) Using this data, we've built a recommender system that provides predicted ratings for the bars that each person hasn't yet rated. To begin, choose an attribute and an endpoint and click the buttons corresponding to the action you wish to take."),
+            HTML("As a fun little experiment, we've sampled numerous food bars and collected data on our team's preferences on a number of different attributes (taste, texture smell, etc.) Using this data, we've built a recommender system that provides predicted ratings for the bars that each person hasn't yet rated. To begin, choose an attribute and click the buttons corresponding to the action you wish to take.<br><br>For more information, check out <a href='https://oaiti.org/2017/12/04/a-food-bar-recommender-service/' target='_blank'>our blog</a>."),
             hr(),
             h4("Configuration"),
             selectInput("attribute", "Attribute", choices = names(bars)[3:10], selected = "Overall"),
             hidden(checkboxInput("ready", "Ready")),
 
             conditionalPanel(condition = "input.tabs1 == 'Data'",
-                             helpText("Use the below sliders and select boxes to perform the addData() call:"),
                              selectInput("user", "User", choices = unique(bars$Taster), selected = "Hieu"),
                              selectInput("bar", "Bar", choices = unique(bars$Bar), selected = "Bounce"),
                              sliderInput("rating", "Rating", value = 5, min = 0, max = 10, step = .5),
                              fluidRow(column(6, actionButton("add_data", "Add Data")), column(6, actionButton("remove_data", "Remove Data")))
             ),
             conditionalPanel(condition = "input.tabs1 == 'Recommendations'",
-                             helpText("Use the below sliders and select boxes to perform the predictInterests() call:"),
                              selectInput("method", "Recommender Method", choices = c("IBCF", "ALS", "POPULAR")),
                              selectInput("preduser", "User", choices = unique(bars$Taster), selected = "Hieu"),
                              actionButton("predinterest", "Predict Interests")
