@@ -1,0 +1,83 @@
+"Food Bar",Taster,Texture,Natural,Taste,BarAppearance,Branding,AfterTaste-Potency[-10+10],Smell[-10+10],Overall,Comments,Date
+"Larabar - Ginger Bread",Lawrence,6.5,8,6.75,,,,,7,,42760
+"Larabar - Ginger Bread",Eric,7,9,6,,,,,7,,42760
+"Larabar - Ginger Bread",Nadia,8,8,6,,,,,7,,42760
+"Health Warrior",Eric,4,8,6,3,9,1,,6,,42765
+"Health Warrior",Lawrence,5.5,9,4.5,3.5,6.5,7,,5,,42765
+"Health Warrior",Nadia,7,9,8,6,7,9,,8,,42765
+"Health Warrior",Pete,3,8,5,3,7,-3,,4,weird,42765
+"Power Crunch",Lawrence,9.5,2,7.5,6,5.5,-0.5,,6.5,,42800
+"Power Crunch",Eric,9,3,8,4,6,1,,7,"goes well with cactus water",42800
+"Power Crunch",Nadia,9,2.5,9,4,4,-5,,5,,42800
+"Muscle Milk",Eric,7,2,4,7,8,-3,,4,,42807
+"Muscle Milk",Lawrence,3,5.5,3.5,7,8.5,1,,3.5,,42807
+"Muscle Milk",Nadia,7,3,3,6,7,4,,3,,42807
+"Nutrition-Zone Perfect",Nadia,9,8,9,7,8,3,5,9," crunchy",42810
+"Nutrition-Zone Perfect",Eric,8,7,9,7,9,5,8,9,"possibly favourite",42810
+"Nutrition-Zone Perfect",Lawrence,1.5,5,8,6,9,2,9.5,7.5,,42810
+Kind,Eric,4,8.5,8,3,6,0,0,8,,42814
+Kind,Nadia,7,9,8,8,6,5,7,9,crunchy!,42814
+Kind,Lawrence,5.5,8.5,5.5,3,6.5,8,0,6,,42814
+"Cliff Bar",Nadia,6.5,7,7,4,7,-1,7,6.5,"natural but protein powder taste",42817
+"Cliff Bar",Eric,4,3,7,2.5,5,0,8,6,,42817
+"Cliff Bar",Lawrence,6.5,4.5,6.5,4,5,-0.5,7,7,,42817
+"Combat Birthday Cake",Eric,3,2,2,4,3.5,-5,-6,2,"Protien taste!",42824
+"Combat Birthday Cake",Nadia,2,0,3,7,5,-3,-4,1,"Odd brand",42824
+"Combat Birthday Cake",Lawrence,3.5,3,2.5,6.5,3,-3,-2,2,,42824
+"SMART- CookieDough",Nadia,5,3,4,7,6,-1,3,4,,42828
+"SMART- CookieDough",Eric,7,8.5,8,7.5,9.5,2,6,8,,42828
+"SMART- CookieDough",Lawrence,6.5,3.5,4.5,8.5,7.5,1.5,6.5,5,,42828
+"SMART -Blueberry",Nadia,5,5,6,7,6,2,-1,6,,42831
+"SMART -Blueberry",Eric,6,8,6.5,7,9,0,-4,6,,42831
+"SMART -Blueberry",Lawrence,6.5,7,7.5,7.5,7.5,0.5,-2,7.5,,42831
+Bounce,Lawrence,5,3.5,5,5,9,5,5.5,8.5,"an experience",42835
+Bounce,Eric,7,7,8,6,9,6,3,8.5,,42835
+Bounce,Nadia,8,8,8,9,9,-1,-1,8,unusual,42835
+"Health Warrior",Nadia,7,7,7,5,6,1,-2,7,,42838
+"Health Warrior",Lawrence,7,9,6.5,3,6.5,1,-6,7.5,,42838
+"Health Warrior",Eric,6,8,6,3,7,0,-4,6.5,,42838
+"Sahale Snacks - Orange",Nadia,6,7.5,7.5,7,8,5,1,7,,42845
+"Sahale Snacks - Orange",Lawrence,6.5,7.5,4,7.5,6.5,1,-1.5,5,,42845
+"Sahale Snacks - Orange",Eric,5,9,8,6,7,4,0,7.5,,42845
+"Sahale Snacks - Banana Pecan",Nadia,7,6,7.5,6.5,7,-1,3,7,,42849
+"Sahale Snacks - Banana Pecan",Lawrence,7,7.5,6.5,8,7,2,1,7,,42849
+"Sahale Snacks - Banana Pecan",Eric,7.5,9,8.5,6.5,8.5,6,2,8.5,,42849
+"Good Greens",Nadia,7,6,8,6,7,1,-4,7.5,,42852
+"Good Greens",Lawrence,5,6.5,4,5,7.5,0.5,-1,5,,42852
+"Good Greens",Eric,5,8,4.5,2,9,-3,-6,4,,42852
+"Vans- PBJ",Nadia,7,7,8.5,7,8,6,2,8.5,,42870
+"Vans- PBJ",Lawrence,8.5,6.5,9,7.5,8,-1,3.5,8.5,,42870
+"Vans- PBJ",Hieu,4,5,5,7,8,3,0,7,,42870
+"Vans- PBJ",Eric,7,7,8,7.5,9,2,5,8,,42871
+"Larabar - Key Lime Pie",Eric,8,8,6.5,4,4,2,-3,7,,42871
+"Larabar - Key Lime Pie",Nadia,7,7,7,6,4,0.5,2,7.5,,42871
+"Larabar - Key Lime Pie",Lawrence,7,7.5,7,5.5,3.5,0,0.5,7,,42871
+"OhYeah - One",Eric,5,3.5,4.5,7.5,8.5,-4,5.5,4,,42873
+"OhYeah - One",Nadia,3,3,6,7,8,-2,7,5.5,,42873
+"OhYeah - One",Lawrence,5,2,2,9,3.5,-2,2.5,4,,42873
+"GoMacro - Protein Purity",Nadia,7,7,5,4,8,-1,-3,4,,42874
+"GoMacro - Protein Purity",Lawrence,6.5,8,5,4,9,-4,-1,3.5,,42874
+"GoMacro - Protein Purity",Hieu,4,8,5,0,8,-10,-5,3,,42874
+"GoMacro - Protein Purity",Eric,6,9,5,3.5,9,-1,-1,5.5,,42874
+"GoMacro - Protein Pleasure",Nadia,8,8,7,8,8,1,2,7,,42874
+"GoMacro - Protein Pleasure",Lawrence,5,5.5,3.5,7.5,9,-2,-0.5,4.5,,42874
+"GoMacro - Protein Pleasure",Hieu,6,7,6,0,8,4,-5,7,,42874
+"GoMacro - Protein Pleasure",Eric,7,8,6,4.5,9,3,1,7.5,,42874
+"GoMacro - Balanced Goodness",Nadia,6,7,8,9,8,6,5,8,,42874
+"GoMacro - Balanced Goodness",Lawrence,7.5,8.5,9,7.5,8.5,-1,3,9,,42874
+"GoMacro - Balanced Goodness",Hieu,7,9,9,5,8,9,-5,8.5,,42874
+"GoMacro - Balanced Goodness",Eric,5.5,9,6.5,5.5,9,3,2,7,,42874
+"Health Warrior-Coconut",Lawrence,7.5,8,3.5,5.5,7.5,-0.5,-3,4.5,,42891
+"Health Warrior-Coconut",Eric,8,8.5,8.5,6,7,2,3,8.5,,42891
+"Health Warrior-Coconut",Nadia,8,8,7,6,7,1,1,7.5,,42891
+"Sunny Days- Strawberry",Hieu,4,7,7,4,5,5,10,8,,42905
+"Sunny Days- Strawberry",Eric,5,4.5,6,5.5,4,0,8,5.5,,42905
+"Sunny Days- Strawberry",Nadia,4,3,6,7,8,-2,8,7,,42905
+"Sunny Days- Strawberry",Lawrence,8,8,7.5,3,2.5,0.5,4,7,,42905
+"Kashi-Almond Snickerdoodle",Hieu,10,6,9,8,3,,6,8,,42909
+"Kashi-Almond Snickerdoodle",Eric,8.5,,9,9,8.5,5,5,8.5,,42909
+"Kashi-Almond Snickerdoodle",Nadia,6,8,7,7,8,-2,3,7,,42909
+"Kashi-Almond Snickerdoodle",Lawrence,5,7.5,7,7.5,5.5,1,8.5,7,,42909
+"Whenever Bars - Oat Blueberry Lemon",Eric,6,8,9,4.5,9,2,3,8.5,,42912
+"Whenever Bars - Oat Blueberry Lemon",Nadia,4,6,8,6,8,-4,2,8,,42912
+"Whenever Bars - Oat Blueberry Lemon",Lawrence,2.5,7.5,5.5,2,7.5,1,3.5,6.5,,42912
