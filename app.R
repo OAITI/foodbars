@@ -44,6 +44,8 @@ addResourcePath("images", "images")
 ### User Interface
 ###
 ui <- fluidPage(title = "Food Bars Recommender System", theme = shinytheme("cerulean"),
+                
+    includeCSS("css/styles.css"),
     
     titlePanel("Food Bars Recommender System"),
     
